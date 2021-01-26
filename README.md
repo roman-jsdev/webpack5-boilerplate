@@ -8,7 +8,7 @@
 This config is also optimized for production mode
 ***
 ### Installation
-* npm i
+* npm i --legacy-peer-deps
 ### Development
 * npm start
 
