@@ -4,3 +4,5 @@
 * Postcss/Autoprefixer
 * Babel
 * ESLint
+***
+This config is also optimized for production mode
