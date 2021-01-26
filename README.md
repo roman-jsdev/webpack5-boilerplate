@@ -6,3 +6,11 @@
 * ESLint
 ***
 This config is also optimized for production mode
+***
+### Installation
+* npm i
+### Development
+* npm start
+
+### Production
+* npm build

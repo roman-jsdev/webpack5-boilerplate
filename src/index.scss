@@ -1,0 +1,27 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+:root{
+  --main-font-size: 28px;
+}
+
+body {
+  background-color: #efd700;
+  font-family: "Roboto", sans-serif;
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    h1 {
+      text-align: center;
+      font-size: var(--main-font-size);
+      font-weight: bold;
+    }
+  }
+}
