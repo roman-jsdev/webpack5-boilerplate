@@ -9,7 +9,7 @@ This boilerplate is also optimized for production mode.
 - ESLint
 ## Installation
 ```ssh
-git clone https://github.com/romanjsprodev/webpack5-config.git
+git clone https://github.com/romanjsprodev/webpack5-boilerplate.git
 
 cd webpack5-config
 
