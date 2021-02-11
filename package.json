@@ -1,6 +1,6 @@
 {
   "name": "webpack5-flex-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Flexible Webpack 5 Config with DevServer, SCSS, autoprefixer, babel and ESLint.",
   "main": "index.js",
   "repository": {
