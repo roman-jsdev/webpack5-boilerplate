@@ -17,11 +17,11 @@ npm i --legacy-peer-deps
 ```
 ## Development
 ```ssh
-npm start
+npm run start
 ```
 ## Production
 ```ssh
-npm build
+npm run build
 ```
 ## Licence
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".
