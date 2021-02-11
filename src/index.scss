@@ -8,6 +8,8 @@
   --main-font-size: 28px;
 }
 
+$main-font-size: var(--main-font-size);
+
 body {
   background-color: #efd700;
   font-family: "Roboto", sans-serif;
@@ -20,7 +22,7 @@ body {
 
     h1 {
       text-align: center;
-      font-size: var(--main-font-size);
+      font-size: $main-font-size;
       font-weight: bold;
     }
   }
