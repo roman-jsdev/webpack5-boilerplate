@@ -11,7 +11,7 @@ This boilerplate is also optimized for production mode.
 ```ssh
 git clone https://github.com/romanjsprodev/webpack5-boilerplate.git
 
-cd webpack5-config
+cd webpack5-boilerplate
 
 npm i --legacy-peer-deps
 ```
@@ -25,4 +25,4 @@ npm run build
 ```
 ## Licence
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".
-Read more here: [Licence](https://github.com/romanjsprodev/webpack5-config/blob/main/LICENSE)
+Read more here: [Licence](https://github.com/romanjsprodev/webpack5-boilerplate/blob/main/LICENSE)
